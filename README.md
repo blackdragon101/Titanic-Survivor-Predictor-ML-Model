@@ -50,6 +50,12 @@ Enter passenger details in the Gradio form:
  Output: **❌ Did not survive**
 
 ---
+## Website live:
+
+  You can check out the live website here: https://2d8a605d37f45d1428.gradio.live/. 
+  Feel free to check the prediction of this model at different inputs of age and relatives  number.
+  
+---
 Screenshots:
 <img width="959" height="415" alt="Screenshot 2026-01-27 233654" src="https://github.com/user-attachments/assets/baee0a90-a787-4da9-a7b5-c4ffadf525eb" />
 
