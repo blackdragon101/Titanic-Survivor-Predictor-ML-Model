@@ -4,7 +4,7 @@ An interactive machine learning project that predicts whether a passenger on the
 
 ---
 
-## 📖 Overview
+## Overview
 This project demonstrates:
 - **Data preprocessing**: Handling missing values, encoding categorical variables, and preparing features.
 - **Model training**: Using XGBoost, a powerful gradient boosting algorithm, to achieve high accuracy.
@@ -12,7 +12,7 @@ This project demonstrates:
 
 ---
 
-## 🛠 Features
+## Features
 - **Upload Titanic dataset (`train.csv`)** directly in Google Colab.
 - **Preprocessing pipeline**: Fill missing values, encode categorical features, drop irrelevant columns.
 - **XGBoost model**: Trained on passenger data to predict survival.
@@ -25,7 +25,7 @@ This project demonstrates:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Open the notebook in **Google Colab**.
 2. Install dependencies:
    ```bash
@@ -37,7 +37,7 @@ This project demonstrates:
 
 ---
 
-## 🎯 Example Usage
+## Example Usage
 Enter passenger details in the Gradio form:
 - Pclass = 3  
 - Age = 22  
@@ -47,7 +47,7 @@ Enter passenger details in the Gradio form:
 - Sex = male  
 - Embarked = S  
 
-👉 Output: **❌ Did not survive**
+ Output: **❌ Did not survive**
 
 ---
 Screenshots:
@@ -58,18 +58,18 @@ Screenshots:
 
 ---
 
-## 📊 Accuracy
+## Accuracy
 The model achieves strong validation accuracy on the Titanic dataset, thanks to XGBoost’s sequential learning approach.
 
 ---
 
-## 💡 Future Improvements 
+## Future Improvements 
 - Compare performance with other algorithms (like Logistic Regression).  
 - Enhance UI with visualizations of survival probabilities.
 
 ---
 
-## 🤝 Contributing
+## Contribution
 Pull requests are welcome! If you’d like to add new features or improve the UI, feel free to fork the repo and submit changes.
 
 ---
